@@ -10,4 +10,4 @@
 - Keine Autos
 - Kein Gitarre spielen
 - Keine Videospiele
-- Doofe Menschen
+- Keine Kreativen Handwerksarbeiten
