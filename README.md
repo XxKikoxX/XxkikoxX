@@ -6,3 +6,8 @@
 - Gitarre spielen
 - Videospiele
 - Kreative Handwerksarbeiten
+## Find ich nicht gut
+- Keine Autos
+- Kein Gitarre spielen
+- Keine Videospiele
+- Doofe Menschen
