@@ -9,8 +9,7 @@
 ## **Meine Persöhnlichen Skills**
 
 - React.js                          
-- Next.js![LinkedIn](https://user-images.githubusercontent.com/123958222/235970448-db5ed4bd-c0b1-43f2-9e70-449c486bfded.png)
-
+- Next.js
 - Javascript ES8+                   
 - Mongo DB
 - Node.js                           
