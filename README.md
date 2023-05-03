@@ -4,7 +4,7 @@
 ---
 ##     **Mein Name ist Kevin Koriath** 
 ---
-###   **Bereits in frühester Jugend begeisterte ich mich für die rasant wachsenden Technologien, die allgegenwärtig zu sein schienen. Das Bootcamp zum Web Developer im Frontend gibt mir die Möglichkeit in einer hoch technologisierten Welt mitzuschwimmen und vielleicht mal ein Teil von etwas Großem werden zu dürfen.**
+###   `Bereits in frühester Jugend begeisterte ich mich für die rasant wachsenden Technologien, die allgegenwärtig zu sein schienen. Das Bootcamp zum Web Developer im Frontend gibt mir die Möglichkeit in einer hoch technologisierten Welt mitzuschwimmen und vielleicht mal ein Teil von etwas Großem werden zu dürfen.`
 ---
 ## **Meine Persöhnlichen Skills**
 
