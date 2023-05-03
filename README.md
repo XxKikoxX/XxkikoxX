@@ -1,25 +1,15 @@
-#    <h1>Hallo mein Name ist Kevin Koriath 
-                       Wilkommen auf meinem Github Profil</h1>
+#    Hallo und herzlich Willkommen
 ![link](https://miro.medium.com/v2/resize:fit:720/1*i8-u-V8LTTbQwTeUwLI_BQ.gif)
-##         <h2>.</h2>
-###         <a>Noch als ich noch jung und unverbraucht war, galt mein Interesse einzig und allein der Technik.
-Meinen ersten Personal Computer bekam ich in frühen Jahren der Jugend.
-Dieser Computer begleitete mich zu LAN Partys oder aber ersetzte er den nicht vorhandenen Fernseher in meinem Kinderzimmer. Von der Kaltlichtkathode bis zum ersten Cpu / Grafikkarten Tausch machte er alles erdenklich mögliche mit.  </a>
+##     Mein Name ist Kevin Koriath 
+###   Bereits in frühester Jugend begeisterte ich mich für die rasant wachsenden Technologien, die allgegenwärtig zu sein schienen. Das Bootcamp zum Web Developer im Frontend gibt mir die Möglichkeit in einer hoch technologisierten Welt mitzuschwimmen und vielleicht mal ein Teil von etwas Großem werden zu dürfen.
 
 #### Meine Persöhnlichen Skills
 
-## React.js
-## Next.js
-## Javascript
+## React.js                          ## Next.js
+## Javascript ES8+                   ## Mongo DB
+## Node.js                           ## mongoose
+## HTML5                             ## CSS3
+## Git Workflow
 
 
-## Find ich gut
-- Autos
-- Gitarre spielen
-- Videospiele
-- Kreative Handwerksarbeiten
-## Find ich nicht gut
-- Keine Autos
-- Kein Gitarre spielen
-- Keine Videospiele
-- Keine Kreativen Handwerksarbeiten
+
