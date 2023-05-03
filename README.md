@@ -1,6 +1,6 @@
 #    <h1>Hallo mein Name ist Kevin Koriath 
                        Wilkommen auf meinem Github Profil</h1>
-![link](http://abload.de/img/in_case_of_fireirrtb.jpg)
+![link](https://miro.medium.com/v2/resize:fit:720/1*i8-u-V8LTTbQwTeUwLI_BQ.gif)
 ##         <h2>.</h2>
 ###         <a>Noch als ich noch jung und unverbraucht war, galt mein Interesse einzig und allein der Technik.
 Meinen ersten Personal Computer bekam ich in frühen Jahren der Jugend.
