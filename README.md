@@ -9,7 +9,8 @@
 ## **Meine Persöhnlichen Skills**
 
 - React.js                          
-- Next.js
+- Next.js![LinkedIn](https://user-images.githubusercontent.com/123958222/235970448-db5ed4bd-c0b1-43f2-9e70-449c486bfded.png)
+
 - Javascript ES8+                   
 - Mongo DB
 - Node.js                           
@@ -17,6 +18,7 @@
 - HTML5                             
 - CSS3
 - Git Workflow
-
+ 
+ [<img src="https://user-images.githubusercontent.com/123958222/235970448-db5ed4bd-c0b1-43f2-9e70-449c486bfded.png" width="200" />](https://www.linkedin.com/in/kevin-koriath-282b9b269/)
 
 
