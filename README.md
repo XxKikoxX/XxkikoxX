@@ -8,15 +8,15 @@
 ---
 ## **Meine Persöhnlichen Skills**
 
-### React.js                          
-### Next.js
-### Javascript ES8+                   
-### Mongo DB
-### Node.js                           
-### mongoose
-### HTML5                             
-### CSS3
-### Git Workflow
+- React.js                          
+- Next.js
+- Javascript ES8+                   
+- Mongo DB
+- Node.js                           
+- mongoose
+- HTML5                             
+- CSS3
+- Git Workflow
 
 
 
