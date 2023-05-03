@@ -18,6 +18,6 @@
 - CSS3
 - Git Workflow
  
- [<img src="https://user-images.githubusercontent.com/123958222/235970448-db5ed4bd-c0b1-43f2-9e70-449c486bfded.png" width="200" />](https://www.linkedin.com/in/kevin-koriath-282b9b269/)
-
+ [<img src="https://user-images.githubusercontent.com/123958222/235976384-6170f680-3b78-4e89-a0ff-33486bfdd8d2.png" width="200" />](https://www.linkedin.com/in/kevin-koriath-282b9b269/)
+[<img src="https://user-images.githubusercontent.com/123958222/235970448-db5ed4bd-c0b1-43f2-9e70-449c486bfded.png" width="200" />](https://www.linkedin.com/in/kevin-koriath-282b9b269/)
 
